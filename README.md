@@ -81,20 +81,6 @@ The **trained models and thresholds** to use for inference purposes are availble
 * [Places365-CNN](https://github.com/CSAILVision/places365) 
 * [Pytorch-Yolo](https://github.com/eriklindernoren/PyTorch-YOLOv3)
 
-### Context Based Emotion Recognition using Emotic Dataset 
-_Ronak Kosti, Jose Alvarez, Adria Recasens, Agata Lapedriza_ <br>
-[[Paper]](https://arxiv.org/pdf/2003.13401.pdf) [[Project Webpage]](http://sunai.uoc.edu/emotic/) [[Authors' Implementation]](https://github.com/rkosti/emotic)
 
-```
-@article{kosti2020context,
-  title={Context based emotion recognition using emotic dataset},
-  author={Kosti, Ronak and Alvarez, Jose M and Recasens, Adria and Lapedriza, Agata},
-  journal={arXiv preprint arXiv:2003.13401},
-  year={2020}
-}
-```
-
-## Author 
-[Abhishek Tandon](https://github.com/Tandon-A)
 
 
